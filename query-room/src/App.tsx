@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
       <h1>GitHub ActionsでFirebase Hostingに自動デプロイしてみた</h1>
+=======
+        <h1>GitHub ActionsでFirebase Hostingに自動デプロイしてみた</h1>
+>>>>>>> 932a96712284aafcdb81e502b5a55c9dbff157cf
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
